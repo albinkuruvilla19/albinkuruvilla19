@@ -23,7 +23,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
       <h3 align="center">MIBPS School Website 📚</h3>
       <div align="center">
         <a href="https://mibps.in/" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=MIBPS+School+Website" width="400" alt="MIBPS School Website">
+          <img src="mibps.png" width="400" alt="MIBPS School Website">
         </a>
         <br>
         <br>
@@ -91,7 +91,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
       <h3 align="center">BagEasy 👜</h3>
       <div align="center">
         <a href="https://github.com/albinkuruvilla19/BagEasy" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=BagEasy" width="400" alt="BagEasy">
+          <img src="bageasy.png" width="400" alt="BagEasy">
         </a>
         <br>
         <br>
