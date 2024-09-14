@@ -15,36 +15,102 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
 ---
 
 
-# 💼 Projects:
+# 💼 Featured Projects
 
-### 1. MIBPS School Website 📚
-- **Deployed**: Hosted on **AWS EC2** with **Nginx** as a reverse proxy
-- **Security**: Configured **SSL** using **Certbot**
-- **Features**: Integrated **SQLite** for data storage and utilized **Django REST Framework** for API development
-- **Technologies**: **Django**, **AWS EC2**, **Nginx**, **Certbot**, **SQLite**,**SEO**, **HTML/CSS**, **Bootstrap**, **JavaScript**
-- **Live Site**: [MIBPS School Website](https://mibps.in/)
-
-### 2. EngLearn - English Learning Platform 📖
-- **Purpose**: A comprehensive platform for learning English through lessons, quizzes, and assessments to improve language skills.
-- **AI Features**: Integrated **Grammar** and **Spell Checkers** using **NLP**, and added an **AI Tutor** with **Gemini API** for interactive language practice.
-- **Technologies**: **Python**, **Django**, **PostgreSQL**, **HTML**, **CSS**, **Bootstrap**, **NLP**, **Gemini API**
-
-
-### 3. SkinLuxe E-commerce Website 🛍️
-- **Real-time Analytics**: Implemented **Chart.js** for interactive data visualization on sales and customer metrics
-- **Product Niche**: Specializes in selling **skincare products**
-- **Responsive Design**: Built with **Bootstrap** for mobile-first experience
-- **Technologies**: **Django**, **JavaScript**, **Chart.js**, **Bootstrap**, **HTML/CSS**, **Chart.js**
-- [Github Repo](https://github.com/albinkuruvilla19/SkinLuxe)
-
-### 4. BagEasy 👜
-- **Clone**: Replicates the features of the **BagEasy** online bag store
-- **Product Display**: Dynamic catalog showcasing bags and accessories
-- **Technologies**: **Django**, **JavaScript**, **HTML/CSS**, **Bootstrap**, **PostgreSQL**
-- [Github Repo](https://github.com/albinkuruvilla19/BagEasy)
-
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MIBPS School Website 📚</h3>
+      <div align="center">
+        <a href="https://mibps.in/" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=MIBPS+School+Website" width="400" alt="MIBPS School Website">
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://mibps.in/" target="_blank">
+            <img src="https://img.shields.io/badge/-Live_Site-2ea44f?style=for-the-badge" alt="Live Site">
+          </a>
+        </p>
+        <p><strong>Django, AWS EC2, Nginx, SQLite, DRF</strong></p>
+        <p>
+          🔒 SSL configured with Certbot<br>
+          🚀 Hosted on AWS EC2 with Nginx<br>
+          🔍 SEO optimized<br>
+          📱 Responsive design with Bootstrap
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">EngLearn - English Learning Platform 📖</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=EngLearn" width="400" alt="EngLearn Platform">
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/-Project_Link-blue?style=for-the-badge" alt="Project Link">
+          </a>
+        </p>
+        <p><strong>Python, Django, PostgreSQL, NLP, Gemini API</strong></p>
+        <p>
+          🤖 AI Tutor with Gemini API<br>
+          ✍️ Grammar and Spell Checkers using NLP<br>
+          📊 Interactive lessons and quizzes<br>
+          🎨 Responsive UI with Bootstrap
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SkinLuxe E-commerce Website 🛍️</h3>
+      <div align="center">
+        <a href="https://github.com/albinkuruvilla19/SkinLuxe" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=SkinLuxe" width="400" alt="SkinLuxe E-commerce">
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/albinkuruvilla19/SkinLuxe" target="_blank">
+            <img src="https://img.shields.io/badge/-Github_Repo-181717?style=for-the-badge&logo=github" alt="Github Repo">
+          </a>
+        </p>
+        <p><strong>Django, JavaScript, Chart.js, Bootstrap</strong></p>
+        <p>
+          📊 Real-time analytics with Chart.js<br>
+          🧴 Specialized in skincare products<br>
+          📱 Mobile-first responsive design<br>
+          🛒 Full e-commerce functionality
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">BagEasy 👜</h3>
+      <div align="center">
+        <a href="https://github.com/albinkuruvilla19/BagEasy" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=BagEasy" width="400" alt="BagEasy">
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/albinkuruvilla19/BagEasy" target="_blank">
+            <img src="https://img.shields.io/badge/-Github_Repo-181717?style=for-the-badge&logo=github" alt="Github Repo">
+          </a>
+        </p>
+        <p><strong>Django, JavaScript, PostgreSQL, Bootstrap</strong></p>
+        <p>
+          🛍️ Clone of BagEasy online store<br>
+          🖼️ Dynamic product catalog<br>
+          🛒 Full shopping cart functionality<br>
+          📱 Responsive design for all devices
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_albn_k_) 
