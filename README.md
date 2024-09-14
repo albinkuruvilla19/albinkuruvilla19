@@ -50,7 +50,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
         <br>
         <br>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/albinkuruvilla19/project" target="_blank">
             <img src="https://img.shields.io/badge/-Project_Link-blue?style=for-the-badge" alt="Project Link">
           </a>
         </p>
