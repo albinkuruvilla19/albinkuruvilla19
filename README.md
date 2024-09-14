@@ -32,7 +32,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
             <img src="https://img.shields.io/badge/-Live_Site-2ea44f?style=for-the-badge" alt="Live Site">
           </a>
         </p>
-        <p><strong>Django, AWS EC2, Nginx, SQLite, DRF</strong></p>
+        <p><strong>Django, AWS EC2, Nginx, SQLite, SEO</strong></p>
         <p>
           🔒 SSL configured with Certbot<br>
           🚀 Hosted on AWS EC2 with Nginx<br>
