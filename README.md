@@ -45,7 +45,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
       <h3 align="center">EngLearn - English Learning Platform 📖</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=EngLearn" width="400" alt="EngLearn Platform">
+          <img src="EngLearn.png" width="400" alt="EngLearn Platform">
         </a>
         <br>
         <br>
@@ -69,7 +69,7 @@ Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Dj
       <h3 align="center">SkinLuxe E-commerce Website 🛍️</h3>
       <div align="center">
         <a href="https://github.com/albinkuruvilla19/SkinLuxe" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=SkinLuxe" width="400" alt="SkinLuxe E-commerce">
+          <img src="SkinLuxe.png" width="400" alt="SkinLuxe E-commerce">
         </a>
         <br>
         <br>
