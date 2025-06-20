@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋<br><br>I'm a **Python Full-Stack Developer** specializing in **Django** 🐍, with a passion for building dynamic web applications. Here's a bit more about me:
 
-- 🎓 Currently pursuing my **MCA** at **Marian College, Kuttikkanam**
+- 🎓 Currently pursuing  **MCA** at **Marian College, Kuttikkanam**
 - 🎓 Graduated with a **Bachelor's degree in Physics** from **St. Berchmans College, Changanassery**
 - ☁️ Aspiring **Cloud Engineer**, excited about cloud technologies and infrastructure
 - 🤖 Worked on several **Natural Language Processing (NLP)** projects, exploring AI and machine learning
